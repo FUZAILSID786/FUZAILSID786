@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FUZAILSID786
-- 👀 I’m interested in programming and hacking.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fuzailsiddiqui499@gmail.com
 
